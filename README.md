@@ -74,14 +74,4 @@ statsmodels
 
 The analysis reveals spatial clusters and correlations between transit usage and local crime density. We explore how geographic context and accessibility can play a role in shaping urban safety.
 
-## Author
-
-**Stephanie Patricia (Fan)**  
-B.S. Data Science, UC San Diego  
-📧 stephanie.patricia@example.com  
-🔗 https://github.com/stephaniepatriciaans
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
